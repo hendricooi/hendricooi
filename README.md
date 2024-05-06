@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Hendric's GitHub stats](https://github-readme-stats-ebon-one-51.vercel.app/api?username=hendricooi&show_icons=true&theme=radical&rank_icon=github)
+![Hendric's GitHub stats](https://github-readme-stats-ebon-one-51.vercel.app/api?username=hendricooi&show_icons=true&theme=radical&rank_icon=github) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hendricooi)
